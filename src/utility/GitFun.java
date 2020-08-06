@@ -6,7 +6,7 @@ public class GitFun {
 
         System.out.println("Kupi mi majko top");
 
-
+// this line is from git hub
 
 
 
